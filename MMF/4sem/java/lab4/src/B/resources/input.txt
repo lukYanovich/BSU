@@ -1,0 +1,12 @@
+grains brazil 10 10 15
+ground india 15 10 20
+banks costa-rica 12 11 14
+packages costa-rica 18 8 10
+ground brazil 12 12 13
+grains india 13 13 20
+banks costa-rica 8 11 18
+packages costa-rica 14 20 15
+grains brazil 11 14 19
+ground india 7 15 20
+banks india 19 7 9
+packages india 10 6 7

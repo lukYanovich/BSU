@@ -1,0 +1,50 @@
+﻿
+@{
+    Layout = "~/Views/Shared/MasterPage.cshtml";
+    ViewBag.Title = "главная";
+}
+
+<div class="row mt-5">
+    <div class="col-6 push-lg-3" id="content">
+        <form>
+            <fieldset class="form-group mb-1">
+                <label for="stationFrom">станция отправления</label>
+                <input type="text" class="form-control" id="stationFrom" placeholder="название">
+            </fieldset>
+            <img src="/Content/img/swap.png" class="img-rounded pull-xs-left hoverSwap" id="imgSwap" alt="swap" height="15">
+            <fieldset class="form-group">
+                <label for="stationWhere">станция назначения</label>
+                <input type="text" class="form-control" id="stationWhere" placeholder="название">
+            </fieldset>
+            <fieldset class="form-group">
+                <label for="dateFrom">дата отправки</label>
+                <input type="date" class="form-control" id="dateFrom">
+            </fieldset>
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" id="checkOfRoad"> туда/обратно
+                </label>
+            </div>
+            <fieldset class="form-group">
+                <label for="dateWhere">дата отправки</label>
+                <input type="date" class="form-control" disabled id="dateWhere">
+            </fieldset>
+            <button type="button" class="btn btn-primary" onclick="location.href='@Url.Action("TrainPage", "Home")'">купить билеты</button>
+            <button type="button" class="btn btn-warning ml-3" data-toggle="modal" data-target="#scheduleModal">расписание поездов</button>
+        </form>
+    </div>
+</div>
+
+<div class="modal fade bd-example-modal-lg" id="scheduleModal" role="dialog" aria-labelledby="scheduleModalLabel" aria-hidden="true" style="margin-left: -38%">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content" style="width: 200%">
+            <div class="modal-header justify-content-center">
+                <h5 class="modal-title" id="scheduleMoadlLabel">расписание поездов</h5>
+            </div>
+            @Html.Action("GetTrainsBlock", "Home")
+            <div class="modal-footer">
+                <button class="btn btn-primary" type="button" data-dismiss="modal">закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>

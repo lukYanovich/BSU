@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>text</title>
+
+    <link href="styles/styles.css" type="text/css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+    <!--
+    <link href="bootstrap.css" type="text/css" rel="stylesheet" />
+    <link href="bootstrap-grid.css" type="text/css" rel="stylesheet" />
+    <link href="bootstrap-grid.min.css" type="text/css" rel="stylesheet" />
+    <link href="bootstrap-reboot.css" type="text/css" rel="stylesheet" />
+    <link href="bootstrap-reboot.min.css" type="text/css" rel="stylesheet" />
+    <link href="bootstrap.min.css" type="text/css" rel="stylesheet" />
+-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+    <script src="js/scripts.js" type="text/javascript"></script>
+
+</head>
+
+<body style="background-color: rgba(204, 203, 203, 0.2);">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-10 push-lg-1" id="header">
+                <div class="card card-inverse card-info">
+                    <img src="img/train.png" class="card-img-top" alt="train">
+                    <div class="card-block">
+                        <blockquote class="blockquote blockquote-reverse mb-0">
+                            <p class="card-text small">
+                                <em>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum modi nobis expedita accusantium sunt alias unde at quod officiis vel explicabo earum hic, iure ad. Ducimus, modi consectetur qui numquam?</em>
+                            </p>
+                            <div class="blockquote-footer">
+                                <cite><strong>автор</strong></cite>
+                            </div>
+                        </blockquote>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <div class="col-6 push-lg-3" id="content">
+                <form>
+                    <fieldset class="form-group mb-1">
+                        <label for="surname">фамилия</label>
+                        <input type="text" class="form-control" id="surname" placeholder="Ivanov" required pattern="^[A-Za-z]+$">
+                    </fieldset>
+                    <fieldset class="form-group">
+                        <label for="name">имя</label>
+                        <input type="text" class="form-control" id="name" placeholder="Ivan" required pattern="^[A-Za-z]+$">
+                    </fieldset>
+                    <fieldset class="form-group">
+                        <label for="numberOfPassport">номер паспорта</label>
+                        <input type="number" class="form-control" id="numberOfPassport" placeholder="3215463215" required>
+                    </fieldset>
+                    <fieldset class="form-group">
+                        <label for="emailOfUser">электронный адрес</label>
+                        <input type="email" class="form-control" id="emailOfUser" placeholder="ivani@mail.ru" required>
+                    </fieldset>
+                    <fieldset class="form-group">
+                        <label for="telephone">контактный телефон</label>
+                        <input type="tel" class="form-control" id="telephone" placeholder="80297224511" pattern="80[0-9]{2}[1-9]{1}[0-9]{6}" required>
+                    </fieldset>
+                    <button type="button" class="btn btn-primary" onclick="location.href='/page3.html'">назад</button>
+                    <button type="button" class="btn btn-success" onclick="location.href='/page5.html'">выбрать место</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <footer class="container-fluid mt-4 mb-2">
+        <h6 class="text-center small display-4">
+            проект выполнил Лукьянович А.С.
+        </h6>
+    </footer>
+
+
+    <!--jQuery first, then Tether, then Bootstrap JS. -->
+    <!--
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    !-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+</body>
+
+</html>

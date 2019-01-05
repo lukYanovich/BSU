@@ -1,0 +1,227 @@
+header { margin: 0; }
+
+.headerImg {
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+	overflow: hidden;
+}
+
+.headerImg > img { 
+	margin-top: -180px;
+	width: 100%;
+}
+
+.filter {
+	height: 100vh;
+	width: 100%;
+	background: linear-gradient(to top, #fce38a, #f38181);
+	position: absolute;
+	opacity: 0.9;
+	z-index: 2;
+}
+
+.headerContent {
+	height: 100vh;
+	width: 100%;
+	margin: 0;
+	background-color: transparent;
+	z-index: 3;
+	position: absolute;
+	display: flex;
+	color: #eaffd0;
+	justify-content: space-between;
+	align-items: center;
+	flex-direction: column;
+}
+
+.headerMenu {
+	margin: 0;
+	width: 1000px;
+	display: flex;
+	justify-content: space-between;
+	position: relative;
+	top: -20px;
+}
+
+.headerMenu a {
+	display: inline-block;
+	padding-bottom: 0.75rem;
+	margin: 0;
+	text-decoration: none;
+	color: #eaffd0;
+}
+
+.headerMenu a:hover { color: #fce38a; }
+
+.MoGo {
+	font-family: 'Montserrat-Bold';
+	font-size: 30px;
+}
+
+/**************************menu top-right********************************/
+.menu {
+	font-family: 'Montserrat-Regular';
+	margin: 0;
+	font-size: 14px;
+}
+
+ul li {
+	display: inline;
+  	text-align: center;
+}
+
+li {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.six, .seven  { width: 18px; }
+
+.six > a{
+	content: url(../img/shop.png);
+	position: relative;
+	top: 15px;
+}
+
+.six:hover > a{	content: url(../img/shopH.png); }
+
+.seven > a{
+	content: url(../img/search.png);
+	position: relative;
+	top: 18px;
+}
+
+.seven:hover > a{ content: url(../img/searchH.png); }
+
+.one:hover ~ hr {
+	margin-left: 10px;
+	height: 3px;
+	width: 51.25px;
+}
+
+.two:hover ~ hr {
+	margin-left: 84.25px;
+	height: 3px;
+  	width: 61.67px;
+}
+
+.three:hover ~ hr {
+  	margin-left: 170.92px;
+  	height: 3px;
+  	width: 46.39px;
+}
+
+.four:hover ~ hr {
+	margin-left: 242.31px;
+  	height: 3px;
+  	width: 38px;
+}
+
+.five:hover ~ hr {
+	margin-left: 305.2px;
+	height: 3px;	
+	width: 69px;
+}
+
+.six:hover ~ hr {
+	margin-left: 399.61px;
+	height: 3px;	
+	width: 18px;
+}
+
+.seven:hover ~ hr {
+	margin-left: 440.61px;
+	height: 3px;
+	width: 18px;	
+}
+
+.menu hr {
+  height: 0;
+  width: 0;
+  margin: 0;
+  background: #fce38a;
+  border: none;
+  transition: 0.3s ease-in-out;
+}
+
+/*************************welcome to mego********************************/
+.first, .second, .third, .fourth {
+	height: 55vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	position: relative;
+	top: -18vh;
+}
+
+.Creative {	font: 72px 'KaushanScript'; }
+
+.headerText {
+	font: 150px 'Montserrat-Bold';
+	text-align: center;
+	line-height: 85%;
+}
+
+.slider a {
+	font: 14px 'Montserrat-Regular';
+	border: 1px solid #eaffd0;
+	color: #eaffd0;
+	text-decoration: none;
+ 	padding: 5px;
+}
+
+.slider hr {
+	background: #eaffd0;
+	border: 0;
+	width: 60px;
+	height: 1px
+}
+
+.slider a:hover {
+	border-color: #f38181;
+	color: #f38181;
+}
+
+/****************buttons in buttom welcome_to_mego***********************/
+.header-buttons {
+	width: 1000px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.header-button hr {	width: 235px; }
+
+.header-button-text {
+	display: flex;
+	flex-direction: row;
+	align-items: baseline;
+}
+
+.header-buttons .number {
+	font: 24px 'Montserrat-Bold';
+	margin-right: 5px; 
+}
+
+.header-buttons .word {	font: 18px 'Montserrat-Regular'; }
+
+/************************************************************************************************************/
+footer {
+	height: 45px;
+	font: 14px 'Montserrat-Regular';
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+footer > hr { margin: 0; }
+
+footer a {
+	color: #f38181;
+	text-decoration: none;
+}
+
+footer > div { padding-bottom: 10px; }

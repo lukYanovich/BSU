@@ -1,0 +1,38 @@
+tmp:
+LOAD min(Date) as MinDate
+	, max(Date) as MaxDate
+Resident Data;
+
+LET vMinDate=PEEK('MinDate');	//For big fact tables (1M+ rows) Min(Date) could be defined once and hardcoded to avoid extra (resident) reading and Min() calculation
+LET vMaxDate=PEEK('MaxDate');	//For big fact tables (1M+ rows) Max(Date) could be set up like today()+365 (730) days to avoid extra (resident) reading and Max() calculation
+Drop Table tmp;
+
+
+
+Calendar:
+//LOAD *
+//	, DUAL('Q'&ceil(Month/3), ceil(Month/3)) as Quarter
+//;
+//LOAD *
+//	, Year(Date) as Year
+//	, Month(Date) as Month
+////	, Week(%OrderDate) as Week
+//;
+//LOAD
+//	$(vMinDate)+IterNo()-1 as Date
+//	AutoGenerate 1
+//While $(vMaxDate)>=$(vMinDate)+IterNo()-1;
+
+
+LOAD *
+	, DUAL('Q'&ceil(Month/3), ceil(Month/3)) as Quarter
+;
+LOAD *
+	, Year(Date) as Year
+	, Month(Date) as Month
+//	, Week(%OrderDate) as Week
+;
+LOAD
+	$(vMinDate)+RecNo()-1 as Date
+	AutoGenerate $(vMaxDate)-$(vMinDate)+1
+;

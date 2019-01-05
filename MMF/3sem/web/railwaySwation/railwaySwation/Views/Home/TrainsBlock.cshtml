@@ -1,0 +1,31 @@
+﻿@model IEnumerable<railwaySwation.Models.Train>
+
+<div class="modal-body">
+    <table class="table table-hover">
+        <thead class="table-inverse">
+            <tr>
+                <th>станция отправления</th>
+                <th>станция назначения</th>
+                <th>дата отправления</th>
+                <th>время отправления</th>
+                <th>дата прибытия</th>
+                <th>время прибытия</th>
+                <th>время в пути</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.startTown</td>
+                    <td>@item.finishTown</td>
+                    <td>@item.startDate.ToString("d")</td>
+                    <td>@item.startTime</td>
+                    <td>@item.finishDate.ToString("d")</td>
+                    <td>@item.finishTime</td>
+                    <td>@item.finishTime.Subtract(@item.startTime)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

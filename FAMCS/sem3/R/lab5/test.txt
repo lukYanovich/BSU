@@ -1,0 +1,40 @@
+Butter, Beer, Nuts, Beer
+Beer, Nuts, Beer
+Milk, Butter, Bread, Beer, Beer
+Butter, Beer, Nuts, Beer
+Milk, Nuts, Beer
+Milk, Butter, Bread, Beer
+Butter, Beer
+Milk, Bread, Beer, Nuts, Beer
+Butter, Bread, Nuts, Beer
+Milk, Butter, Bread, Beer, Beer
+Milk, Bread, Beer, Beer
+Milk, Butter, Nuts, Beer
+Milk, Bread, Beer, Nuts, Beer
+Beer
+Milk, Butter, Bread, Beer
+Butter, Bread, Beer
+Beer
+Milk, Butter, Bread, Beer
+Beer
+Beer, Nuts, Beer
+Beer
+Milk, Bread, Nuts, Beer
+Milk, Butter, Beer
+Milk, Beer, Beer
+Beer
+Milk, Bread, Beer, Beer
+Butter, Nuts, Beer
+Milk, Bread, Beer, Beer
+Bread, Beer, Beer
+Milk, Beer
+Butter, Beer
+Bread, Beer
+Milk, Butter, Nuts, Beer
+Beer, Beer
+Beer, Nuts, Beer
+Butter, Bread, Beer
+Milk, Butter, Nuts, Beer
+Beer, Beer
+Milk, Butter, Beer, Beer
+Milk, Beer

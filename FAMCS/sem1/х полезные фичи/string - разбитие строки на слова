@@ -1,0 +1,49 @@
+#include <iostream>
+#include <string>
+#include <fstream>
+
+using namespace std;
+
+int main()
+{
+	ifstream fin("input.txt");
+	if (!fin.is_open()){
+		cout << "input file not open.\n";
+		return 1;
+	}
+
+	const int c = 1000;	//размер массива указателей на слова
+	string str, word;
+	string *arrayOfWords = new string[c];
+	string separators = " ";	//выбираем чем разделены слова
+	int max = 0, n = 0, k;
+	bool flag = false;
+
+	while (fin.good()){
+		getline(fin, str);
+		k = 0;
+		if ((n = str.find_first_not_of(separators, k)) == -1)
+			continue;
+		str += separators;
+		while ((n = str.find_first_not_of(separators, k)) != -1){	//нашело слово заключено
+			flag = true;											//между n(начало) и k(конец)
+			k = str.find_first_of(separators, n);					// n < слово < k
+			for (int i = n; i < k; i++)
+				word += str[i];
+			arrayOfWords[max] = word;
+			word.clear();
+			max++;
+		}
+	}
+	fin.close();
+	if (!flag){	//проверка не только лишь из разделителей состоит файл
+		cout << "input file does not contain any words.\n";
+		return 1;
+	}
+	for (int i = 0; i < max; i++)
+		cout << arrayOfWords[i] << "; ";
+	cout << endl;
+	
+	delete[] arrayOfWords;
+	return 0;
+}

@@ -1,0 +1,50 @@
+﻿@model IEnumerable<railwaySwation.Entity.TrainFull>
+
+@{
+    Layout = "~/Views/Shared/MasterPage.cshtml";
+    ViewBag.Title = "список поездов";
+
+}
+
+<div class="row mt-5">
+    <div class="col-6 push-md-1" id="content">
+        <table class="table table-hover" id="tableWithTrains">
+            <thead class="table-inverse small">
+                <tr>
+                    <th class="d-none">id поезда</th>
+                    <th>станция отправления</th>
+                    <th>станция назначения</th>
+                    <th>дата отправления</th>
+                    <th>время отправления</th>
+                    <th>дата прибытия</th>
+                    <th>время прибытия</th>
+                    <th>время в пути</th>
+                    <th>цена</th>
+                    <th>свободные места</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr data-train="@item.Id">
+                        <td class="d-none">@item.Id</td>
+                        <td>@item.startTown</td>
+                        <td>@item.finishTown</td>
+                        <td>@item.startDate.ToString("d")</td>
+                        <td>@item.startTime</td>
+                        <td>@item.finishDate.ToString("d")</td>
+                        <td>@item.finishTime</td>
+                        <td>@item.finishTime.Subtract(@item.startTime)</td>
+                        <td>@item.price</td>
+                        <td>@item.countOfTickets</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <form>
+            <button type="button" class="btn btn-danger" onclick="location.href='@Url.Action("Index", "Home")'">назад</button>
+            <input type="hidden" name="url-to-nex-page" value="@Url.Action("OrderTicketPage", "Home")" />
+            <a id="goToNextPage" type="button" class="btn btn-primary" href="/Home/OrderTicketPage/0">далее</a>
+        </form>
+    </div>
+</div>

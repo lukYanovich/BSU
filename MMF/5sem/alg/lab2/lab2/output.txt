@@ -1,0 +1,25 @@
+206: inserted
+71: inserted
+64: inserted
+405: inserted
+206: deleted
+64: deleted
+405: deleted
+71: deleted
+List of elements:
+Tree is empty.
+12: inserted
+7: inserted
+8: inserted
+3: inserted
+20: inserted
+19: inserted
+3: not inserted
+List of elements:
+3
+7
+8
+12
+19
+20
+3 7 8 12 19 20 

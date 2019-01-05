@@ -1,0 +1,9 @@
+12 Brest  pass 12:54 23
+43 Minsk fast 19:23 9
+82 Gomel pass 12:00 32
+24 Brest fast 24:12 43
+1 Moskow fast 17:50 10
+533 Brest fast 06:40 4
+7 Brest pass 18:12 6
+13 Vitebsk pass 07:01 5
+28 Moskow fast 23:12 12

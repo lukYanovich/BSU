@@ -1,0 +1,7 @@
+.buttonBeg {
+    -fx-text-fill: white;
+    -fx-font-size: 15pt;
+    -fx-font-style: italic;
+    -fx-color: red;
+    -fx-font-weight: bold;
+}

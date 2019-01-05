@@ -1,0 +1,27 @@
+pre {
+    font-size: 20px;
+    background-color: chartreuse;
+    padding: 10px;
+}
+
+img{
+    margin: 20px;
+    transform: scale(1.5);
+    display: block;
+    border: 1px solid black;
+    padding-left: 130px;
+}
+
+
+#ref {
+    font-style: italic;
+    background-color: aqua;
+    font-size: 60px;
+    padding: 10px;
+}
+
+span{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+}

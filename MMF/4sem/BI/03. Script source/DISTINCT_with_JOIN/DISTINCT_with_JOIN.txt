@@ -1,0 +1,16 @@
+Sales:
+LOAD //DISTINCT
+	ID, 
+     Sales
+FROM
+[..\03. Script source\DISTINCT_with_JOIN.xlsx]
+(ooxml, embedded labels, table is Sales);
+
+Customer:
+LEFT JOIN (Sales)
+LOAD //DISTINCT 
+	ID, 
+     Name
+FROM
+[..\03. Script source\DISTINCT_with_JOIN.xlsx]
+(ooxml, embedded labels, table is Customers);

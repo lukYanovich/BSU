@@ -1,0 +1,9 @@
+body 
+{
+  background:#000000 url('../img/baclground.jpg') no-repeat fixed 50% top; /*Устанавливает начальную позицию фонового изображения в процентах*/
+}
+
+td
+{
+  vertical-align: top; /* Выравнивание по верхнему краю ячеек */
+}

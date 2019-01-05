@@ -1,0 +1,16 @@
+table, td, tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th{
+    padding: 3px;
+}
+
+table pre {
+    font-size: 16px;
+}
+
+body {
+    padding-left: 1%;
+}

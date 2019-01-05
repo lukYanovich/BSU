@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Montserrat-Regular;
+    src: url(../fonts/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: Montserrat-Bold;
+    src: url(../fonts/Montserrat-Bold.ttf);
+}
+
+@font-face {
+	font-family: KaushanScript;
+    src: url(../fonts/KaushanScript-Regular.ttf);
+}
+
+@font-face {
+	font-family: Roboto-Regular;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+	font-family: Roboto-LightItalic;
+    src: url(../fonts/Roboto-LightItalic.ttf);
+}
+
+body {
+	margin: 0;
+	background-color: white;
+    zoom: 1;
+}

@@ -1,0 +1,501 @@
+id,Product,Manufacturer,Price
+1,Lorazepam,Apotheca Company,$93.87
+2,Kiwi Strawberry Antibacterial Foaming Hand Wash,Health Care Products,$37.04
+3,Pilocarpine Hydrochloride,Health Care Products,$130.39
+4,"Butalbital, Acetaminophen, and Caffeine",Apotheca Company,$90.40
+5,Piroxicam,Deb USA,$169.29
+6,Enoxaparin Sodium,Apotheca Company,$94.07
+7,Prednisolone,Apotheca Company,$74.08
+8,Lisinopril,Fenwall,$91.05
+9,eyes lips face Mineral Blemish Kit Box,Health Care Products,$135.59
+10,Xarelto,Hospira,$125.65
+11,Haloperidol Lactate,Apotheca Company,$192.03
+12,CVS Revitalift Complete with SPF-15,BAYER,$63.09
+13,Dexamethasone Sodium Phosphate,Deb USA,$30.92
+14,Amlodipine Besylate,Hospira,$142.51
+15,Diltiazem Hydrochloride,Health Care Products,$165.35
+16,Friccilicont,Health Care Products,$68.66
+17,CHENOPODIUM AMBROSIOIDES POLLEN,Deb USA,$166.07
+18,Metoprolol Tartate,Deb USA,$177.76
+19,McKesson Unna Boot with Calamine 4,Hospira,$83.96
+20,Fentanyl,Apotheca Company,$64.59
+21,simply right famotidine,Hospira,$48.53
+22,NAROPIN,Apotheca Company,$107.84
+23,ULMUS AMERICANA POLLEN,Deb USA,$26.18
+24,Anti-Bacterial Hand,Hospira,$78.91
+25,BLATELLA GERMANICA,BAYER,$55.24
+26,Hyoscyamine Sulfate,Deb USA,$130.34
+27,Dilacor,BAYER,$194.40
+28,METOPROLOL SUCCINATE,Apotheca Company,$59.66
+29,Levalbuterol,BAYER,$98.84
+30,Purminerals 4-in-1 Mineral Tinted Moisturizer Broad Spectrum SPF 20 (LIGHT),Deb USA,$161.80
+31,FUROSEMIDE,Apotheca Company,$146.54
+32,KROGER NICOTINE TRANSDERMAL SYSTEM,Health Care Products,$166.65
+33,Oxaprozin,Fenwall,$178.84
+34,Carisoprodol,Health Care Products,$46.67
+35,Norditropin,Deb USA,$145.35
+36,B Mold Mixture,Health Care Products,$134.98
+37,Hydralazine Hydrochloride,Health Care Products,$179.69
+38,Red Kidney Beans,Health Care Products,$144.77
+39,Terazosin Hydrochloride,Health Care Products,$48.07
+40,Yellow Dock,BAYER,$134.53
+41,Divigel,Apotheca Company,$46.73
+42,BIVIGAM,BAYER,$76.73
+43,Flu Relief Therapy Day Time,Fenwall,$196.27
+44,Arsenicum Album Kit Refill,BAYER,$197.99
+45,furosemide,Deb USA,$20.87
+46,OXYGEN,Apotheca Company,$51.88
+47,Irbesartan,Deb USA,$174.87
+48,Klor-Con,Health Care Products,$191.16
+49,12 Hour Nasal Decongestant,Hospira,$51.68
+50,Amlodipine Besylate,Hospira,$26.23
+51,Tiazac Extended Release,Health Care Products,$119.75
+52,XtraCare Antibacterial Hand Cleanse,Hospira,$195.05
+53,Pepcid,BAYER,$102.88
+54,SEROQUEL,Fenwall,$27.95
+55,METOPROLOL TARTRATE AND HYDROCHLOROTHIAZIDE,BAYER,$174.84
+56,Venlafaxine Hydrochloride,BAYER,$84.96
+57,Imipramine Hydrochloride,Deb USA,$71.32
+58,Medicated Pain Relief,Hospira,$125.50
+59,Moms Choice Rx,Apotheca Company,$107.75
+60,Quack Grass,Hospira,$68.23
+61,All Day Pain Relief,Deb USA,$99.06
+62,OXYGEN,Apotheca Company,$25.39
+63,Ortho-Novum,Deb USA,$130.14
+64,BPM-DM-PHEN,Deb USA,$126.31
+65,Varibar Pudding,Apotheca Company,$125.03
+66,Vimpat,Apotheca Company,$149.89
+67,Stool Softener,Deb USA,$55.39
+68,Agaricus Muscarius Kit Refill,Health Care Products,$119.76
+69,Pain Reliever,Hospira,$178.72
+70,Moisture Renew,Apotheca Company,$32.16
+71,Vancomycin Hydrochloride,Apotheca Company,$131.39
+72,Citalopram,Deb USA,$106.88
+73,Concerta,BAYER,$141.68
+74,Uroxatral,Apotheca Company,$133.44
+75,WALGREENS MAXIMUM RELIEF EYE DROPS,BAYER,$32.87
+76,Fludeoxyglucose F 18,Fenwall,$159.74
+77,Eucerin Redness Relief Daily Perfecting,Health Care Products,$149.89
+78,Aspirin EC,BAYER,$150.87
+79,Promethazine Hydrochloride,Health Care Products,$33.39
+80,Diclofenac Sodium and Misoprostol,Hospira,$62.01
+81,Alka-Seltzer Plus Day Severe Cold Plus Flu,Apotheca Company,$118.03
+82,Olanzapine,Fenwall,$164.93
+83,LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE,BAYER,$137.72
+84,Isosorbide,Fenwall,$191.81
+85,Synthroid,Hospira,$97.56
+86,Ibuprofen,Apotheca Company,$194.76
+87,NICARdipine Hydrochloride,Fenwall,$45.41
+88,Zorcaine,Apotheca Company,$125.90
+89,Klor-Con M,Hospira,$134.56
+90,Stay Well,Hospira,$58.04
+91,Instant Hand Sanitizer,Apotheca Company,$109.30
+92,Equaline Hemorrhoidal,Deb USA,$51.32
+93,Quik-Care,Health Care Products,$71.80
+94,LEVOFLOXACIN,Fenwall,$56.34
+95,Menstrual Cramps,Hospira,$161.77
+96,Pioglitazone,Hospira,$126.38
+97,Sertraline,Hospira,$176.97
+98,Cheong-Kwan-Jang Korean HongSam,Hospira,$191.56
+99,Ertaczo,Fenwall,$58.13
+100,PURELL Advanced Hand Sanitizer Aspen Retreat,Hospira,$35.42
+101,Nesacaine,BAYER,$35.21
+102,Healthy Accents Anti Itch,Apotheca Company,$179.93
+103,good sense pain reliefchildrens,BAYER,$193.66
+104,Kroger Sheer Dry Touch Sunscreen,Fenwall,$160.72
+105,Unithroid,Hospira,$60.07
+106,ACTIFIRM RECOVERY EYE,Fenwall,$101.69
+107,MS Contin,Deb USA,$135.86
+108,SYNTHROID,Deb USA,$20.43
+109,"carbidopa, levodopa and entacapone",Health Care Products,$142.51
+110,Waterless Hand Sanitizer,Hospira,$171.80
+111,ADVAIR,BAYER,$172.82
+112,MIGERGOT,BAYER,$47.30
+113,TL-HEM 150,Apotheca Company,$190.62
+114,Diazepam,Health Care Products,$148.26
+115,Childrens TYLENOL,Hospira,$90.77
+116,ExeFen IR,Health Care Products,$167.15
+117,Acetaminophen,BAYER,$87.10
+118,fluvoxamine maleate,Fenwall,$89.79
+119,Prednisone,Fenwall,$88.13
+120,Antiseptic,Deb USA,$170.72
+121,Isosorbide,Deb USA,$26.24
+122,Carrington Antifungal,Fenwall,$180.97
+123,Hemorrhoidal,Apotheca Company,$74.03
+124,GREEN OLIVE,BAYER,$180.07
+125,Divalproex Sodium,Hospira,$85.30
+126,Curasore,Hospira,$163.39
+127,Pravastatin Sodium,Health Care Products,$158.58
+128,Ondansetron,Health Care Products,$168.61
+129,Clindamycin Hydrochloride,Health Care Products,$163.80
+130,AQUAFRESH,Health Care Products,$67.87
+131,Alba Mineral Terr Tint SPF15 Bloom,Apotheca Company,$68.22
+132,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,Fenwall,$131.60
+133,Rhus Tox. e fol. 4,Health Care Products,$108.92
+134,Spironolactone,Apotheca Company,$20.07
+135,HAMSTER HAIR AND EPITHELIA,Fenwall,$108.30
+136,kirkland signature ibuprofen,Deb USA,$132.62
+137,Losartan Potassium,Hospira,$173.14
+138,Prednisolone Sodium Phosphate,Health Care Products,$166.94
+139,Foradil,BAYER,$20.26
+140,Adalat CC,Apotheca Company,$127.16
+141,EROS BODYGLIDE,Fenwall,$184.08
+142,ATOPALM Hemorrhoidal Pain Relieving,Hospira,$62.30
+143,ropinirole hydrochloride,Apotheca Company,$163.71
+144,Levofloxacin,Fenwall,$173.07
+145,Carbamazepine,Deb USA,$45.83
+146,Ciprofloxacin and Dextrose,Hospira,$182.65
+147,Equaline pain relief,Health Care Products,$25.13
+148,White Poplar,Deb USA,$123.25
+149,Theophylline,BAYER,$93.42
+150,Dental plus Regular Flavor,Fenwall,$126.83
+151,NIACIN,Fenwall,$20.04
+152,Lunesta,Hospira,$192.97
+153,Up and Up Nicotine,Apotheca Company,$89.58
+154,Treatment Set TS350533,Hospira,$52.83
+155,dg health headache relief,Apotheca Company,$132.64
+156,SUNMARK MILK OF MAGNESIA,Apotheca Company,$174.92
+157,Clean and Clear Essentials Dual Action Moisturizer,Deb USA,$179.35
+158,Miconazole 7,Apotheca Company,$142.27
+159,Levofloxacin,Health Care Products,$21.48
+160,Maximum Strength Mucus Relief,Health Care Products,$51.55
+161,BELLADONNA,Fenwall,$189.77
+162,Flawless Finish Bare Perfection Makeup SPF 8 Vanilla Shell,Hospira,$38.05
+163,Lady Speed Stick,Health Care Products,$110.06
+164,CETIRIZINE HYDROCHLORIDE,BAYER,$27.86
+165,ENALAPRIL MALEATE,Apotheca Company,$187.52
+166,Risperidone,Health Care Products,$89.61
+167,Fluoride Rinse for Kids,Health Care Products,$185.86
+168,ibuprofen,Deb USA,$84.69
+169,ANTI BACTERIAL HAND SANITIZER,Fenwall,$38.99
+170,ATOMY SUN,Hospira,$193.93
+171,Amitriptyline Hydrochloride,BAYER,$120.50
+172,Latuda,Health Care Products,$78.66
+173,Bambusa Nicotiana,Hospira,$54.88
+174,Fluocinonide,Health Care Products,$48.78
+175,Metronidazole,BAYER,$113.46
+176,CellCept,Apotheca Company,$33.65
+177,Lidocaine Hydrochloride and Epinephrine,Apotheca Company,$181.46
+178,topcare pain relief pm,Apotheca Company,$78.00
+179,Acetaminophen and Codeine Phosphate,Hospira,$155.43
+180,Citrus Cydonia 7,Deb USA,$174.94
+181,Coppertone SPORT PRO SERIES,Deb USA,$84.76
+182,Freshmint Anticavity Fluoride Gel Toothpaste,Fenwall,$37.89
+183,Good Sense Complete,Fenwall,$182.99
+184,Lorazepam,BAYER,$97.50
+185,bareMinerals 5-in-1 BB Advanced Performance Eyeshadow Broad Spectrum SPF 15,Fenwall,$56.66
+186,Tasmar,Apotheca Company,$188.63
+187,Carboplatin,Hospira,$70.15
+188,Virotox WN,Hospira,$75.88
+189,Traumeel,BAYER,$59.69
+190,Sinosil,Fenwall,$58.94
+191,Topamax,Apotheca Company,$170.96
+192,Oxygen,Apotheca Company,$69.50
+193,Hycet,Deb USA,$148.46
+194,Naproxen,Deb USA,$27.72
+195,NATRUM SULPHURICUM,Deb USA,$77.83
+196,Glycopyrrolate,Deb USA,$55.96
+197,BEAUTIFUL WOMANS HAIR LOVES COLORFUL BUBBLES HAIR DYE 5N NATURAL BROWN,Fenwall,$120.67
+198,Olanzapine,BAYER,$40.86
+199,BAK,Deb USA,$58.46
+200,TOY CLEANER,Apotheca Company,$48.08
+201,Motion Sickness,Apotheca Company,$105.48
+202,Acyclovir,Health Care Products,$49.23
+203,Sterymine Pain Relief,Fenwall,$153.77
+204,SUTENT,Deb USA,$145.65
+205,Female Energy,Deb USA,$47.16
+206,Zytiga,Health Care Products,$144.03
+207,MIRTAZAPINE,Fenwall,$89.53
+208,Avandia,Health Care Products,$25.73
+209,Gelsemium Semp Kit Refill,Apotheca Company,$24.82
+210,Heparin Sodium,Apotheca Company,$75.83
+211,OXYMETAZOLINE HYDROCHLORIDE,Health Care Products,$120.87
+212,Chlorthalidone,Deb USA,$77.15
+213,Carisoprodol,BAYER,$46.34
+214,Direct Safety Extra Strength Aspirin Free,BAYER,$148.24
+215,Vitamin K1,Hospira,$46.24
+216,SHISEIDO PERFECT REFINING FOUNDATION,Deb USA,$167.65
+217,FELODIPINE,BAYER,$164.81
+218,Formadon,Hospira,$49.08
+219,Stalevo,BAYER,$162.89
+220,piperacillin and tazobactam,Deb USA,$147.33
+221,Publix,BAYER,$96.39
+222,SINGULAIR,Deb USA,$104.02
+223,Orphenadrine Citrate,Fenwall,$146.72
+224,ANTIMICROBIAL FOAMING,Health Care Products,$191.72
+225,XtraCare Hand Sanitizer,BAYER,$167.30
+226,COLGATE SPARKLING WHITE CINNAMINT,Deb USA,$103.75
+227,Vichy Normaderm,Health Care Products,$196.61
+228,blackberry vanilla hand sanitizer,Deb USA,$180.50
+229,Oxybutynin Chloride,Deb USA,$45.43
+230,Gaba,Health Care Products,$81.29
+231,Clemastine Fumarate,Hospira,$182.48
+232,Clarithromycin,Fenwall,$58.26
+233,Summer Citrus Antibacterial Foaming Hand Wash,Deb USA,$184.48
+234,Meijer kids SPF 50,Deb USA,$72.54
+235,demeclocycline hydrochloride,Hospira,$40.42
+236,Good Sense Ibuprofen,Fenwall,$168.81
+237,Yat Tip Xiao,Hospira,$55.62
+238,MARKET BASKET,Health Care Products,$39.87
+239,Nite Time Cold and Flu,BAYER,$103.32
+240,nasal,Deb USA,$130.81
+241,Ranitidine Hydrochloride,BAYER,$110.14
+242,Coralite Topical Analgesic Capsaicin Heat,Health Care Products,$179.28
+243,CLINDAMYCIN PHOSPHATE,Hospira,$27.95
+244,Levofloxacin,Health Care Products,$123.25
+245,Haloperidol,Hospira,$47.22
+246,Permethrin,Apotheca Company,$175.11
+247,Treatment Set TS351129,Deb USA,$118.86
+248,Health Mart Pharmacy Childrens Loratadine,Apotheca Company,$188.22
+249,Fruit Smoothies,Hospira,$67.90
+250,Amlodipine Besylate,BAYER,$155.69
+251,Borrelia Remedy,Health Care Products,$46.90
+252,ALTACAINE,Health Care Products,$139.68
+253,Alpha CF,BAYER,$91.40
+254,Niaspan,Deb USA,$58.50
+255,Clindamycin Hydrochloride,Fenwall,$188.35
+256,Levothyroxine Sodium,Hospira,$24.72
+257,PROPRANOLOL HYDROCHLORIDE,Deb USA,$127.98
+258,Olive,BAYER,$134.24
+259,Complete Menstrual Relief,BAYER,$141.01
+260,Omeprazole,Fenwall,$32.41
+261,MAX HYALURONIC STEMCELL SLEEPING PACK,BAYER,$49.69
+262,nighttime cold and flu relief,Fenwall,$174.04
+263,Lansoprazole,Apotheca Company,$195.58
+264,PHENTERMINE HYDROCHLORIDE,Apotheca Company,$45.24
+265,Equaline ibuprofen,Fenwall,$156.76
+266,Melaleuca Pollen,Deb USA,$178.61
+267,Ampicillin,Apotheca Company,$161.77
+268,Glipizide,BAYER,$43.42
+269,Instant Hand Sanitizer Convenience Pack,Fenwall,$189.83
+270,Lobelia Quercus,Fenwall,$192.75
+271,Old Spice Fresh Collection Denali,Fenwall,$192.79
+272,Amiodarone Hydrochloride,Hospira,$160.76
+273,ISENTRESS,Fenwall,$35.32
+274,SUPRAX,Hospira,$99.37
+275,Erythromycin,Deb USA,$139.68
+276,Donepezil Hydrochloride,Apotheca Company,$85.69
+277,Spring Grove Unscented Hand Sanitizer,Health Care Products,$150.42
+278,Bloating Complex,Apotheca Company,$141.39
+279,Givenchy Fluid Foundation Airy-light Mat Radiance SPF 20 Tint 4,Deb USA,$137.88
+280,Spironolactone,Deb USA,$166.44
+281,HydrALAZINE Hydrochloride,Apotheca Company,$52.71
+282,Rimantadine Hydrochloride,Apotheca Company,$64.73
+283,Secret Natural Mineral,Hospira,$135.05
+284,Body,Health Care Products,$135.86
+285,Neostigmine Methylsulfate,Fenwall,$32.86
+286,Curly Dock,BAYER,$155.85
+287,Modafinil,Hospira,$136.39
+288,Loesch Hair Regrowth Formula,Fenwall,$88.54
+289,Synalar,Hospira,$183.65
+290,Oxygen,Fenwall,$47.49
+291,Appetite Enhancer,Apotheca Company,$64.89
+292,Hydroxychloroquine Sulfate,Fenwall,$30.34
+293,CVS PHARMACY,Hospira,$145.16
+294,Penicillin G Sodium,Health Care Products,$35.40
+295,Ibuprofen,Hospira,$181.37
+296,ConRx Sinus,Health Care Products,$68.87
+297,Ketoprofen,Hospira,$71.65
+298,Acyclovir,Apotheca Company,$32.34
+299,Pomalyst,Health Care Products,$114.53
+300,CLEAR ACTION,Fenwall,$39.92
+301,Furosemide,Hospira,$40.79
+302,Fluconazole,Apotheca Company,$181.09
+303,Atracurium Besylate,Apotheca Company,$41.26
+304,Bio Olive,Hospira,$79.94
+305,Pravastatin Sodium,Fenwall,$67.67
+306,Italian Rye Grass,Deb USA,$189.99
+307,Lemon,BAYER,$49.44
+308,fiber,Health Care Products,$125.11
+309,Clonidine Hydrochloride,Health Care Products,$139.90
+310,Sodium Chloride,Health Care Products,$79.32
+311,Valacyclovir Hydrochloride,BAYER,$52.80
+312,doxazosin,Health Care Products,$186.00
+313,COLLINSONIA CANADENSIS,Hospira,$151.47
+314,TAVIST,Health Care Products,$137.78
+315,Lisinopril,Health Care Products,$99.22
+316,healthy accents all day pain relief,Health Care Products,$73.61
+317,ZONISAMIDE,Hospira,$91.49
+318,TODAYS HEALTH SINUS NASAL RELIEF,Deb USA,$161.86
+319,Phloridzin,BAYER,$173.14
+320,Influenzinum,Hospira,$125.95
+321,Amlodipine besylate and Atorvastatin calcium,Deb USA,$100.13
+322,Nateglinide,Hospira,$67.96
+323,CD DIORSKIN STAR Studio Makeup Spectacular Brightening with sunscreen Broad Spectrum SPF30 022,Apotheca Company,$133.80
+324,Opahl,Health Care Products,$146.02
+325,Triple Antibiotic,Hospira,$85.38
+326,topcare nite time cold and flu relief,BAYER,$56.29
+327,Naloxone Hydrochloride,Deb USA,$76.35
+328,itraconazole,Deb USA,$128.78
+329,LEADER BACITRACIN,BAYER,$155.57
+330,DAILY MOISTURIZING,Fenwall,$171.70
+331,4 in 1 Pressed Mineral SPF 15 Golden Dark,Deb USA,$97.24
+332,topcare complete lice treatment,Deb USA,$153.82
+333,stila CC color correcting broad-spectrum SPF 20 08 TAN,Deb USA,$54.44
+334,M-END,Deb USA,$145.54
+335,Ecolab,Deb USA,$122.91
+336,Moisturizing Face Screen Medium Tint SPF 30,BAYER,$48.78
+337,Sotalol Hydrochloride,Deb USA,$21.04
+338,Nevirapine,Apotheca Company,$154.88
+339,Total Lead,Fenwall,$142.45
+340,Octreotide acetate,BAYER,$69.74
+341,ADVAIR DISKUS,Hospira,$39.74
+342,Kaopectate Extra Strength Peppermint Flavor Anti Diarrheal,Fenwall,$117.26
+343,SULFAMETHOXAZOLE and TRIMETHOPRIM,Apotheca Company,$186.97
+344,Olanzapine,Hospira,$137.29
+345,MAYINGLONG HEMORRHOIDS,Apotheca Company,$33.21
+346,WARFARIN SODIUM,Health Care Products,$173.95
+347,Ibuprofen,Health Care Products,$185.85
+348,Depakote,Health Care Products,$157.26
+349,Coralite Muscle Joint,Hospira,$89.05
+350,Atenolol,Apotheca Company,$186.33
+351,Mapap,Hospira,$109.39
+352,Rx Act Gas Relief,Health Care Products,$73.27
+353,Sleep Aid,Health Care Products,$147.59
+354,Dentox,Health Care Products,$146.12
+355,Glimepiride,Fenwall,$75.36
+356,Hydrogen Peroxide,BAYER,$81.39
+357,Non Drowsy Day Time,Fenwall,$159.31
+358,Lamotrigine,Hospira,$53.93
+359,Warfarin Sodium,Deb USA,$43.10
+360,Johnsons Baby Intense Moisture,Deb USA,$92.10
+361,Atorvastatin Calcium,Health Care Products,$112.60
+362,Ampicillin and Sulbactam,Hospira,$68.98
+363,Proventil HFA,Apotheca Company,$137.70
+364,Prednisone,Hospira,$57.08
+365,Zoledronic Acid,BAYER,$73.31
+366,"Molds, Rusts and Smuts, Curvularia spicifera",Apotheca Company,$174.41
+367,Fresh Linen Antibacterial Foaming Hand Wash,BAYER,$115.69
+368,Hipoglos,Apotheca Company,$107.60
+369,Oregon Ash,Hospira,$77.48
+370,Somatuline Depot,BAYER,$106.05
+371,Metoprolol Succinate,BAYER,$39.91
+372,Citroma Magnesium Citrate,Health Care Products,$168.69
+373,Motion Sickness Relief,Deb USA,$96.59
+374,Helium,Health Care Products,$114.98
+375,Gas Relief,Fenwall,$127.77
+376,Probenecid,BAYER,$144.02
+377,Rosmarinus Argentum,Health Care Products,$63.73
+378,Chicken Meat,BAYER,$144.91
+379,Triple Antibiotic,Deb USA,$131.40
+380,Temazepam,Health Care Products,$51.76
+381,Anti-Bacterial Hand,Hospira,$35.69
+382,Multi-Active Day Early Wrinkle Correcting SPF 15,BAYER,$22.73
+383,PLETAL,Fenwall,$183.27
+384,Verapamil Hydrochloride,BAYER,$49.59
+385,SKIN RELIEF MOISTURE LOT WITH SOOTHING OAT EXTRACTS,Deb USA,$151.00
+386,Alprazolam,Health Care Products,$64.25
+387,Acetylcysteine,Fenwall,$191.45
+388,Oxybutynin Chloride,BAYER,$142.25
+389,Members Mark Loratadine,Hospira,$172.03
+390,OXYGEN,Fenwall,$177.80
+391,Colgate Proclinical Refreshing Mint,Hospira,$92.23
+392,Calcium Acetate,Apotheca Company,$138.50
+393,Maximum Strength Multi-Symptom Cold Flu and Sore Throat,Hospira,$51.92
+394,Baclofen,Health Care Products,$74.25
+395,Levaquin,Hospira,$59.33
+396,Fluoxetine HCl,Hospira,$153.99
+397,Topiramate,BAYER,$125.52
+398,Gabitidine,Hospira,$30.44
+399,good neighbor pharmacy childrens pain and fever,Health Care Products,$166.85
+400,DUREZOL,Fenwall,$49.15
+401,SAVELLA,Apotheca Company,$70.55
+402,Cleocin Phosphate,Apotheca Company,$68.48
+403,OXYCODONE HYDROCHLORIDE,Deb USA,$66.41
+404,NARS FOUNDATION,BAYER,$68.59
+405,"Pollens - Trees, Alder, Red Alnus rubra",Hospira,$166.51
+406,IMITREX,Fenwall,$176.44
+407,Wheat Bran,Deb USA,$132.40
+408,HOUSE DUST,Health Care Products,$128.92
+409,Solar Protection Formula SPF 60 Tinted Concealer - (Beige),Health Care Products,$139.00
+410,Hydrocortisone,BAYER,$109.89
+411,Equaline Muscle Rub,BAYER,$60.64
+412,Mucinex D,BAYER,$101.54
+413,IQUIX,Hospira,$32.42
+414,Bupropion Hydrochloride,Apotheca Company,$49.79
+415,Reglan,Deb USA,$166.40
+416,ORANGE,Health Care Products,$70.48
+417,Acetaminophen,Fenwall,$91.73
+418,Pacific Garden Antibacterial Foam,Apotheca Company,$88.18
+419,Megestrol Acetate,Health Care Products,$84.80
+420,FoamFresh Healthcare Hand Wash,BAYER,$143.63
+421,meijer,Hospira,$155.29
+422,Lamotrigine,Fenwall,$60.89
+423,Flu-Cold,Deb USA,$117.52
+424,Maybelline New York Baby Lips Dr Rescue Medicated Balm,Deb USA,$156.27
+425,Lidocaine Hydrochloride,Fenwall,$60.56
+426,Hemorrhoidal,Deb USA,$105.74
+427,Lisinopril,Deb USA,$188.46
+428,METFORMIN HYDROCHLORIDE,Fenwall,$23.85
+429,Loratadine,Health Care Products,$66.53
+430,Anastrozole,Apotheca Company,$65.07
+431,SOMA Croim,Apotheca Company,$157.77
+432,Badger Zinc Oxide Diaper Cream,Apotheca Company,$114.69
+433,Neomycin and Polymyxin B Sulfates and Dexamethasone,Health Care Products,$107.48
+434,Caldesene Baby,Hospira,$23.63
+435,ISA KNOX SMART BB SUN,Apotheca Company,$93.08
+436,Oxygen,Apotheca Company,$192.18
+437,VITALUMIERE AQUA,BAYER,$106.21
+438,Cleocin Phosphate,Health Care Products,$29.69
+439,Amlodipine and Valsartan,Deb USA,$101.67
+440,Canadian Blue Grass,Health Care Products,$195.11
+441,Warfarin Sodium,Deb USA,$176.95
+442,Allopurinol,BAYER,$126.54
+443,Nystatin,Health Care Products,$69.58
+444,Amoxicillin and Clavulanate Potassium,Deb USA,$114.48
+445,Colgate,Apotheca Company,$47.01
+446,Pecan Pollen,BAYER,$177.68
+447,Health Mart fiber caplets,Health Care Products,$116.49
+448,Artificial Tears,Apotheca Company,$87.06
+449,Diltiazem Hydrochloride,Hospira,$192.50
+450,Promethazine VC With Codeine,Hospira,$100.46
+451,Body,Deb USA,$70.77
+452,Triaminic,Health Care Products,$40.40
+453,White Ash,BAYER,$84.27
+454,INSTANT HAND SANITIZER,Hospira,$54.79
+455,Gabapentin,BAYER,$111.32
+456,Stay Awake,BAYER,$88.80
+457,Husky Instant Hand Sanitizer,Fenwall,$188.62
+458,Ondansetron Hydrochloride,Health Care Products,$28.89
+459,JANUVIA,Fenwall,$189.42
+460,Atenolol,Fenwall,$166.84
+461,Smart Sense ibuprofen,Apotheca Company,$149.93
+462,Zolpidem Tartrate,Apotheca Company,$24.93
+463,EZ-OX,Health Care Products,$22.54
+464,Charm Tex Fluoride,Fenwall,$130.19
+465,Hydroxyzine,Hospira,$160.40
+466,TERUFLEX Blood Bag System Anticoagulant Citrate Phosphate Dextrose Adenine (CPDA-1),Apotheca Company,$127.52
+467,Allergy,Health Care Products,$179.11
+468,INSTANT HAND SANITIZER,Fenwall,$21.21
+469,CareOne Pain Relief,Deb USA,$71.00
+470,Enalapril Maleate,Fenwall,$59.37
+471,Ondansetron,Deb USA,$190.27
+472,Cold Multi-Symptom Daytime Non-Drowsy,BAYER,$125.14
+473,Ibuprofen,Hospira,$179.01
+474,Pituitary Forte,BAYER,$199.28
+475,Amoxicillin,Apotheca Company,$101.99
+476,Paroxetine,Deb USA,$118.31
+477,care one miconazole 7,BAYER,$40.75
+478,Hydrogen Peroxide,Health Care Products,$76.48
+479,Maximum Strength Sinus Pressure and Pain PE,Deb USA,$114.64
+480,Qdryl Allergy,Apotheca Company,$82.77
+481,Degree,Apotheca Company,$36.50
+482,Amoxicillin and Clavulanate Potassium,Fenwall,$101.60
+483,Diclofenac Sodium,Apotheca Company,$176.78
+484,Pentoxifylline,Health Care Products,$32.05
+485,ADSOL Red Cell Preservation Solution System in Plastic Container (PL 146 Plastic),Deb USA,$111.85
+486,Triazolam,Deb USA,$170.40
+487,Furosemide,Deb USA,$128.94
+488,antacid mint flavored,Hospira,$92.13
+489,Atomoxetine hydrochloride,Apotheca Company,$161.70
+490,Crest Pro-Health,Deb USA,$45.59
+491,Namenda,Hospira,$150.46
+492,Ketoconazole,Hospira,$23.50
+493,Hayfever,Fenwall,$51.78
+494,Bayberry,BAYER,$105.25
+495,Argentum 8,Health Care Products,$57.67
+496,Australian Gold,Deb USA,$144.84
+497,Sleep Aid,BAYER,$32.81
+498,Atenolol,Fenwall,$173.77
+499,Creamy Petroleum Jelly,Deb USA,$157.01
+500,Sleep-Aid,Hospira,$181.25

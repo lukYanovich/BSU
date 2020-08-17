@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "log_schem_test", "log_schem_test\log_schem_test.vcxproj", "{A356B945-4371-4DCD-91AB-BA4E641F94F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BA771187-73AF-4EE7-AED0-9ED5EB7DE96F}"
+	ProjectSection(SolutionItems) = preProject
+		log_schem_test\AllPrDlg.cpp = log_schem_test\AllPrDlg.cpp
+		log_schem_test\AllPrDlg.h = log_schem_test\AllPrDlg.h
+		log_schem_test\Anal.cpp = log_schem_test\Anal.cpp
+		log_schem_test\Anal.h = log_schem_test\Anal.h
+		log_schem_test\Elements.cpp = log_schem_test\Elements.cpp
+		log_schem_test\Elements.h = log_schem_test\Elements.h
+		log_schem_test\HandTestDlg.cpp = log_schem_test\HandTestDlg.cpp
+		log_schem_test\HandTestDlg.h = log_schem_test\HandTestDlg.h
+		log_schem_test\KS.cpp = log_schem_test\KS.cpp
+		log_schem_test\KS.h = log_schem_test\KS.h
+		log_schem_test\KSDoc.cpp = log_schem_test\KSDoc.cpp
+		log_schem_test\KSDoc.h = log_schem_test\KSDoc.h
+		log_schem_test\KSView.cpp = log_schem_test\KSView.cpp
+		log_schem_test\KSView.h = log_schem_test\KSView.h
+		log_schem_test\MainFrm.cpp = log_schem_test\MainFrm.cpp
+		log_schem_test\MainFrm.h = log_schem_test\MainFrm.h
+		log_schem_test\Opacf.cpp = log_schem_test\Opacf.cpp
+		log_schem_test\Opacf.h = log_schem_test\Opacf.h
+		log_schem_test\PrDlg.cpp = log_schem_test\PrDlg.cpp
+		log_schem_test\PrDlg.h = log_schem_test\PrDlg.h
+		log_schem_test\Print.cpp = log_schem_test\Print.cpp
+		log_schem_test\PRINT.H = log_schem_test\PRINT.H
+		log_schem_test\ProcDlg.cpp = log_schem_test\ProcDlg.cpp
+		log_schem_test\ProcDlg.h = log_schem_test\ProcDlg.h
+		log_schem_test\RD.cpp = log_schem_test\RD.cpp
+		log_schem_test\RD.h = log_schem_test\RD.h
+		log_schem_test\regmethod.cpp = log_schem_test\regmethod.cpp
+		log_schem_test\regmethod.h = log_schem_test\regmethod.h
+		log_schem_test\ResDlg.cpp = log_schem_test\ResDlg.cpp
+		log_schem_test\ResDlg.h = log_schem_test\ResDlg.h
+		log_schem_test\ResultDialog.cpp = log_schem_test\ResultDialog.cpp
+		log_schem_test\ResultDialog.h = log_schem_test\ResultDialog.h
+		log_schem_test\ResultDlg.cpp = log_schem_test\ResultDlg.cpp
+		log_schem_test\ResultDlg.h = log_schem_test\ResultDlg.h
+		log_schem_test\ResultDlg1.cpp = log_schem_test\ResultDlg1.cpp
+		log_schem_test\ResultDlg1.h = log_schem_test\ResultDlg1.h
+		log_schem_test\StdAfx.cpp = log_schem_test\StdAfx.cpp
+		log_schem_test\StdAfx.h = log_schem_test\StdAfx.h
+		log_schem_test\vermet.cpp = log_schem_test\vermet.cpp
+		log_schem_test\vermet.h = log_schem_test\vermet.h
+		log_schem_test\VermetDlg.cpp = log_schem_test\VermetDlg.cpp
+		log_schem_test\VermetDlg.h = log_schem_test\VermetDlg.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A356B945-4371-4DCD-91AB-BA4E641F94F6}.Debug|x64.ActiveCfg = Debug|x64
+		{A356B945-4371-4DCD-91AB-BA4E641F94F6}.Debug|x64.Build.0 = Debug|x64
+		{A356B945-4371-4DCD-91AB-BA4E641F94F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{A356B945-4371-4DCD-91AB-BA4E641F94F6}.Debug|x86.Build.0 = Debug|Win32
+		{A356B945-4371-4DCD-91AB-BA4E641F94F6}.Release|x64.ActiveCfg = Release|x64
+		{A356B945-4371-4DCD-91AB-BA4E641F94F6}.Release|x64.Build.0 = Release|x64
+		{A356B945-4371-4DCD-91AB-BA4E641F94F6}.Release|x86.ActiveCfg = Release|Win32
+		{A356B945-4371-4DCD-91AB-BA4E641F94F6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8752213-C515-49BB-AF03-7F70811630CF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+circuit shneid;
+inputs x(1),x(2),x(3),x(4);
+outputs a8(1);
+gates
+a1 'no2' (1) x(1),x(3);
+a2 'no2' (1) x(2),x(3);
+a3 'no2' (1) x(2),x(4);
+a4 'no2' (1) a1(1),x(2);
+a5 'no2' (1) x(1),a2(1);
+a6 'no2' (1) a2(1),x(4);
+a7 'no2' (1) x(3),a3(1);
+a8 'no4' (1) a4(1),a5(1),a6(1),a7(1);
+endgates
+end

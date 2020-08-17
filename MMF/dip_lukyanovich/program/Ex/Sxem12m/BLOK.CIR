@@ -1,0 +1,17 @@
+circuit blok;
+inputs p(1),p(2),p(3),p(4),p(5),p(6);
+outputs b1(1),b2(1);
+gates
+ a11 'and' (1) p(1),p(5);
+ a1 'and' (1) a11(1),p(6);
+ a22 'and' (1) p(6),p(2);
+ a2 'and' (1) a22(1),n1(1);
+ n1 'not' (1) p(5);
+ a3 'and' (1) n1(1),p(3);
+ a4 'and' (1) p(4),p(5);
+ a5 'and' (1) p(6),p(6);
+ b1 'nor' (1) a1(1),a2(1);
+ b22 'or' (1) a3(1),a4(1);
+ b2 'nor' (1) b22(1),a5(1);
+endgates
+end
